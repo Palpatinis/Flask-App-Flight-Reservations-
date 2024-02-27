@@ -1,0 +1,1 @@
+Flask application for managing flight reservations and user authentication with MongoDB.The app implements the actions of registration,login, flight search, reservation, showing reservations, showing elements of reservations, deleting reservations, deleting users, creating flights, and updating costs.
